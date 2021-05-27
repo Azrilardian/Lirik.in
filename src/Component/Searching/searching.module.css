@@ -1,0 +1,17 @@
+.col-right {
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+	.col-right {
+		margin-bottom: 4em;
+	}
+
+	.col-left {
+		display: grid;
+		place-items: center;
+	}
+}

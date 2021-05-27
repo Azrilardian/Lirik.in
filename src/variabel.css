@@ -1,0 +1,8 @@
+:root {
+	--default-dark-color: hsl(218, 16%, 14%);
+	--default-dark-blue-color: hsl(216, 18%, 16%);
+	--default-blue-color: hsl(206, 63%, 44%);
+	--default-blue-color-2: hsl(206, 63%, 60%);
+	--default-light-blue-color: hsl(205, 48%, 69%);
+	--default-grey-color: hsl(0, 0%, 80%);
+}
